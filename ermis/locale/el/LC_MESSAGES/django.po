@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-12 15:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ermis/templates/site_index.html:9 ermis/templates/site_index.html.py:26
+#: ermis/templates/site_index.html:30 ermis/templates/site_index.html.py:74
+msgid "Welcome"
+msgstr ""
+
+#: ermis/templates/site_index.html:10
+msgid ""
+"GeoNode is an open source platform for sharing geospatial data and maps."
+msgstr ""
+
+#: ermis/templates/site_index.html:11
+msgid ""
+"If you have any questions about the software or service, join our <a href="
+"\"https://groups.google.com/d/forum/geonode-users\">mailing list</a>."
+msgstr ""
+
+#: ermis/templates/site_index.html:12
+msgid "Need help?"
+msgstr ""
+
+#: ermis/templates/site_index.html:12
+msgid "Getting Started"
+msgstr ""
+
+#: ermis/templates/site_index.html:26 ermis/templates/site_index.html.py:30
+#: ermis/templates/site_index.html:74
+msgid "at"
+msgstr "στη"
+
+#: ermis/templates/site_index.html:26 ermis/templates/site_index.html.py:30
+#: ermis/templates/site_index.html:74
+msgid "ERMIS-F Geoportal"
+msgstr "Γεωπύλη ERMIS-F"
+
+#: ermis/templates/site_index.html:37 ermis/templates/site_index.html.py:41
+msgid ""
+"Geoportal is an online platform for searching, viewing, downloading and "
+"editing spatial data related to food risks"
+msgstr ""
+"Η Γεωπύλη είναι μια διαδικτυακή πλατφόρμα αναζήτησης, προβολής, λήψης και "
+"επεξεργασίας χωρικών δεδομένων και χαρτών που σχετίζονται με τον πλημμυρικό "
+"κίνδυνο"
+
+#: ermis/templates/site_index.html:45 ermis/templates/site_index.html.py:50
+msgid ""
+"Provides access to the ERMIS-F Service for managing risks, focusing on floods"
+msgstr ""
+"Παρέχει πρόσβαση στην Ολοκληρωμένη Δημόσια Υποστηριζόμενη Υπηρεσία ERMIS-F "
+"για τη διαχείριση περιβαλλοντικών κινδύνων με έμφαση στις πλημμύρες."
+
+#: ermis/templates/site_index.html:55 ermis/templates/site_index.html.py:59
+#: ermis/templates/site_index.html:77
+msgid "For more details about ERMIS-F, visit "
+msgstr ""
+"Για περισσότερες πληροφορίες σχετικά με την Πράξη ERMIS-F, επισκεφτείτε την "
+"ιστοσελίδα "
+
+#: ermis/templates/site_index.html:75
+#, fuzzy
+#| msgid ""
+#| "Geoportal is an online platform for searching, viewing, downloading and "
+#| "editing spatial data related to food risks"
+msgid ""
+"Geoportal is an online platform for searching, viewing, downloading and "
+"editing spatial data related to food risks and provides access to the ERMIS-"
+"F Service for managing risks, focusing on floods"
+msgstr ""
+"Η Γεωπύλη είναι μια διαδικτυακή πλατφόρμα αναζήτησης, προβολής, λήψης και "
+"επεξεργασίας χωρικών δεδομένων και χαρτών που σχετίζονται με τον πλημμυρικό "
+"κίνδυνο"
+
+#: ermis/templates/site_index.html:101
+msgid "Advanced Search"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Upload Layer"
+#~ msgid "Explore layers"
+#~ msgstr "Ανέβάστε Επίπεδο"
+
+#, fuzzy
+#~| msgid "Upload Document"
+#~ msgid "Document"
+#~ msgid_plural "Documents"
+#~ msgstr[0] "Ανεβάστε Έγγραφο"
+#~ msgstr[1] "Ανεβάστε Έγγραφο"
+
+#, fuzzy
+#~| msgid "Upload Document"
+#~ msgid "Add documents"
+#~ msgstr "Ανεβάστε Έγγραφο"
+
+#, fuzzy
+#~| msgid "Upload Document"
+#~ msgid "Explore documents"
+#~ msgstr "Ανεβάστε Έγγραφο"
+
+#~ msgid "ERMIS-F Sub"
+#~ msgstr ""
+#~ "Αποτελεί μια διαδικτυακή πλατφόρμα αναζήτησης, προβολής, λήψης και "
+#~ "επεξεργασίας χωρικών δεδομένων και χαρτών που σχετίζονται με τον "
+#~ "πλημμυρικό κίνδυνο, και διασυνδέει όλες τις εφαρμογές της Υπηρεσίας ERMIS-"
+#~ "F (βάση γνώσης πλημμυρικού κινδύνου, εφαρμογή πληθοπορισμού, εφαρμογή "
+#~ "κοινωνικής δικτύωσης, σύστημα έγκαιρης προειδοποίησης). Παρέχει ένα "
+#~ "ολοκληρωμένο περιβάλλον πληροφόρησης και υποστήριξης λήψης αποφάσεων που "
+#~ "αφορούν τους περιβαλλοντικούς κινδύνους και ιδιαίτερα τον πλημμυρικό "
+#~ "κίνδυνο."
+
+#~ msgid "Ermis-F Applications"
+#~ msgstr "Εφαρμογές Ermis-F"
+
+#~ msgid "Knowledge Base"
+#~ msgstr "Βάση Γνώσης"
+
+#~ msgid "Early Alert"
+#~ msgstr "Έγκαιρη Προειδοποίηση"
+
+#~ msgid "Search for Data."
+#~ msgstr "Αναζήτηση"
+
+#~ msgid "Data"
+#~ msgstr "Δεδομένα"
